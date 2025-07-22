@@ -59,4 +59,4 @@ Need a custom AI assistant like this?
 
 🛠️ Visit my Fiverr profile: fiverr.com/tayyabasafwan
 
-Made with ❤️ by Tayyaba Safwan
+Made with ❤️ by Tayyaba Hussain
