@@ -25,7 +25,7 @@ st.set_page_config('💬 AI Assistant')
 
 st.title('💬 AI Assistant Demo')
 
-st.markdown('Ask aunything and see how the assistant responds in real-time.')
+st.markdown('Ask anything and see how the assistant responds in real-time.')
 
 user_input = st.text_input('👤 Your Question:')
 
