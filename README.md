@@ -53,3 +53,10 @@ Never share your actual key in public repos.
 ```bash
 streamlit run main.py
 ```
+
+## 📞 Contact
+Need a custom AI assistant like this?
+
+🛠️ Visit my Fiverr profile: fiverr.com/tayyabasafwan
+
+Made with ❤️ by Tayyaba Safwan
